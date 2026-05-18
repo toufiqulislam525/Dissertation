@@ -30,7 +30,7 @@ Contains trial, experimental, and rejected modelling approaches, including techn
 
 ## Data Availability
 
-Raw Bloomberg files are not included because they were accessed through Northumbria University’s institutional Bloomberg Terminal licence. The notebooks are provided as evidence of the analytical workflow and development process. Users with equivalent access to Bloomberg data can follow the notebook structure to reproduce the analysis.
+Raw Bloomberg data files are not included in the repository because they were accessed through Northumbria University's institutional Bloomberg Terminal licence. Therefore, the repository is not presented as a fully self-contained reproduction package. Instead, it is provided as a code audit trail showing the analytical steps, modelling attempts, and development process used to produce the dissertation results.
 
 ## Main Outputs
 
